@@ -13,7 +13,7 @@ export default {
 	floatTOC: true,
 	defaultMenuCollapsed: true,
 	footer: true,
-	footerText: `Built in ${new Date().getFullYear()} © Nanami.`,
+	footerText: <>Built in {new Date().getFullYear()} © Nanami.</>,
 	footerEditLink: `Edit this page on GitHub`,
 	logo: (
 		<>

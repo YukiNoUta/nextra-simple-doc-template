@@ -1,3 +1,11 @@
 {
-	"index": "Home Page"
+	"index": {
+		"title": "Home Page",
+		"type": "nav",
+		"hidden": true
+	},
+	"doc": {
+		"title": "Documentation",
+		"type": "nav"
+	}
 }
